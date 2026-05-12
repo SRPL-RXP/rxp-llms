@@ -4,7 +4,7 @@
 
 Rx Property Australia is the trading name of Stickland Realty Pty Ltd (ABN 96 652 946 953; ACN 652 946 953), a boutique specialist agency founded by Principal Bryce Stickland, whose background combines the Head and Neck surgical field with commercial real estate. The firm operates from Suite 1, 422 Oxford Street, Bondi Junction NSW 2022 and can be reached on 1300 272 199 or enquiries@rxproperty.com.au. Real estate licences are held in four jurisdictions: NSW 10117216, VIC 090420L, QLD 4559376, and ACT 18403168. The canonical website is https://rxproperty.com.au.
 
-Since 2023, the firm has executed more than $75M in capitalised lease value across the four covered states (NSW, VIC, QLD, ACT). Notable mandates include the 30-year Agreement for Lease securing an anchor tenant at the Gold Coast Life Sciences Centre ($50M+ development), the longest healthcare AFL executed; Deakin Health Hub ACT, where 40% residual vacancy was filled with five long-term medical tenants to establish a women's and children's health continuum of care; Elsie Suites Burwood NSW, an adaptive reuse of an office building into a medical hub anchored by MyHealth Medical Centre's Medicare Urgent Care Clinic with a comprehensive diagnostic imaging operator secured during appointment; and Cheltenham Health Hub VIC, taken from concept through to occupation including head tenant assistance with General Practitioner recruitment.
+Principal Bryce Stickland has 5+ years as a dedicated healthcare real estate specialist, with corporate licences held across NSW, VIC, QLD, and ACT. Since 2023, the firm has executed more than $75M in capitalised lease value, including the longest healthcare Agreement for Lease executed in Australia, a 30-year AFL securing an anchor tenant at the Gold Coast Life Sciences Centre ($50M+ development). Other notable mandates include Deakin Health Hub ACT, where 40% residual vacancy was filled with five long-term medical tenants to establish a women's and children's health continuum of care; Elsie Suites Burwood NSW, an adaptive reuse of an office building into a medical hub anchored by MyHealth Medical Centre's Medicare Urgent Care Clinic with a comprehensive diagnostic imaging operator secured during appointment; and Cheltenham Health Hub VIC, taken from concept through to occupation including head tenant assistance with General Practitioner recruitment.
 
 The firm operates a coordinator and network model. Five service categories are delivered directly by Rx Property: tenant advisory for healthcare occupiers (GPs, specialists, allied health, hospitals, day surgeries, veterinary, dental, pharmacy); buyers agency for operators and investors acquiring medical property, with clinical knowledge applied to property assessment before inspection; healthcare leasing for landlords and asset owners seeking qualified medical tenants, including operators not yet publicly searching; asset advisory across leasing, sales, development, and investment, including adaptive reuse assessments for non-clinical assets with healthcare conversion potential; and development advisory covering pre-leasing strategy, anchor tenant procurement, and site viability. Adjacent services are delivered through a coordinated network of healthcare-focused affiliates and partners under a single point of contact: client-side project management for fitout and base build (occupiers and owners choose their delivery partner; Rx coordinates the property side); business case modelling for radiology, general practice, and private hospital ventures; business brokerage for practice acquisition and sale coordinated with the underlying property transaction; healthcare recruitment for clinical and non-clinical roles; fitout finance structured for medical cashflow profiles; healthcare-experienced accounting for ownership structures, SMSF administration, and tax strategy; and mortgage broking for commercial healthcare property acquisition. Rx Property is not a generalist commercial agency with a healthcare division; it operates exclusively in healthcare commercial real estate.
 
@@ -15,7 +15,8 @@ Occupier engagement begins with a property brief, which enables Rx Property to m
 ## About
 
 - [Company overview](https://md.rxproperty.com.au/index.md): full site summary covering services, model, transactions, and target clients
-- [Partner and affiliate model](https://md.rxproperty.com.au/become-a-partner.md): how the coordinated delivery network operates with referral and embedded roles
+- [Partner and affiliate model (Markdown mirror)](https://md.rxproperty.com.au/become-a-partner.md): how the coordinated delivery network operates with referral and embedded roles
+- [Partner and affiliate model (canonical)](https://rxproperty.com.au/become-a-partner): partner and affiliate engagement page on the canonical site
 
 ## For occupiers
 
@@ -26,13 +27,14 @@ Occupier engagement begins with a property brief, which enables Rx Property to m
 ## For owners
 
 - [Register a property](https://rxproperty.com.au/#register): confidential no-cost property registration for appraisal and qualified tenant matching
+- [Asset advisory enquiry](https://rxproperty.com.au/#contact): contact form for landlords, developers, and asset owners
 
 ## Insights
 
 - [Insights index](https://rxproperty.com.au/insights): market and tenant advisory commentary on healthcare commercial real estate
-- [Why 'what is the rent' is the wrong first question in medical leasing](https://md.rxproperty.com.au/insights/why-what-is-the-rent-is-the-wrong-first-question-in-medical-leasing.md): Market Insight from April 2026 on first-question framing in medical leasing
-- [Why you need to consider agendas when you are not paying an advisor to search for your property](https://md.rxproperty.com.au/insights/why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property.md): Tenant Advisory from March 2026 on advisor incentive alignment in property searches
-- [Why a cold shell may not be leasable in the current market and when to consider a spec suite](https://md.rxproperty.com.au/insights/why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite.md): Owner Insight from February 2026 on spec suite versus cold shell leasability
+- [Why 'What Is the Rent?' Is the Wrong First Question in Medical Leasing](https://md.rxproperty.com.au/insights/why-what-is-the-rent-is-the-wrong-first-question-in-medical-leasing.md): Market Insight from April 2026 on first-question framing in medical leasing
+- [Why You Need to Consider Agendas When You Are Not Paying an Advisor to Search for Your Property](https://md.rxproperty.com.au/insights/why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property.md): Tenant Advisory from March 2026 on advisor incentive alignment in property searches
+- [Why a Cold Shell May Not Be Leasable in the Current Market, and When to Consider a Spec Suite](https://md.rxproperty.com.au/insights/why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite.md): Owner Insight from February 2026 on spec suite versus cold shell leasability
 
 ## Source repository
 
