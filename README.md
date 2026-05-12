@@ -1,131 +1,75 @@
 # Rx Property Australia: Machine-Readable Content
 
-This repository hosts the machine-readable Markdown and `llms.txt` artefacts for [rxproperty.com.au](https://rxproperty.com.au), enabling AI systems, large language models, and other automated agents to read Rx Property's content cleanly without scraping the HTML site.
+Markdown mirror of rxproperty.com.au, served at md.rxproperty.com.au via Vercel. Built to the llmstxt.org convention so AI systems can find, fetch, and cite canonical content about Rx Property.
 
-Served via Vercel at `md.rxproperty.com.au` and referenced from the canonical [`llms.txt`](https://rxproperty.com.au/llms.txt) at the root domain.
+This repo is the source of truth for:
 
----
+- `llms.txt`: curated index of canonical resources
+- `llms-full.txt`: auto-generated single-file concatenation
+- Per-page Markdown mirrors of selected pages on rxproperty.com.au
 
-## Why This Repo Exists
+## What this repo serves
 
-AI-driven discovery is a meaningful inbound channel for Rx Property. AI crawlers and conversational search products (Claude, ChatGPT, Perplexity, and similar) parse Markdown more reliably than HTML and increasingly prefer it where both are available. This repo serves clean Markdown twins of the most important pages on rxproperty.com.au, signposted from the canonical `llms.txt`.
-
-The repository is **public by design**. Content here mirrors what's already on the live site, so there's no privacy cost, and a public repo gives AI systems an additional discovery surface beyond the website itself.
-
----
-
-## Repository Structure
-
-```
-/
-├── README.md                       (this file, not served publicly)
-├── llms.txt                        (root discovery file, also served at /llms.txt)
-├── index.md                        (mirrors / on rxproperty.com.au)
-├── become-a-partner.md             (mirrors /become-a-partner)
-├── listings.md                     (mirrors /listings)
-├── privacy-policy.md               (mirrors /privacy-policy)
-├── disclaimer.md                   (mirrors /disclaimer)
-├── insights/
-│   ├── why-what-is-the-rent-is-the-wrong-first-question-in-medical-leasing.md
-│   ├── why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property.md
-│   └── why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite.md
-├── vercel.json                     (deployment config: MIME types, headers)
-└── .gitignore
-```
-
----
-
-## Deployment
-
-This repo deploys automatically to Vercel on every push to `main`. Vercel serves the files as static content with `text/markdown; charset=utf-8` MIME type at `md.rxproperty.com.au`.
-
-URL mapping examples:
-
-| Live HTML page | Markdown twin |
+| File | Purpose |
 |---|---|
-| `https://rxproperty.com.au/` | `https://md.rxproperty.com.au/index.md` |
-| `https://rxproperty.com.au/become-a-partner` | `https://md.rxproperty.com.au/become-a-partner.md` |
-| `https://rxproperty.com.au/insights/why-what-is-the-rent...` | `https://md.rxproperty.com.au/insights/why-what-is-the-rent....md` |
+| `llms.txt` | Index of canonical and mirrored resources, per the llmstxt.org spec |
+| `llms-full.txt` | Single-file concatenation of every mirror (auto-generated) |
+| `index.md` | Mirror of the home page |
+| `become-a-partner.md` | Mirror of the partner / affiliate landing page |
+| `listings.md` | Mirror of the listings overview |
+| `faq.md` | Mirror of the FAQ page |
+| `disclaimer.md` | Mirror of the disclaimer |
+| `privacy-policy.md` | **Intentional stub** (see Known issues) |
+| `insights/*.md` | Mirrors of individual insights articles |
 
-The canonical `llms.txt` at `https://rxproperty.com.au/llms.txt` references the `md.rxproperty.com.au` URLs explicitly, so AI systems following the llms.txt discovery convention will find these files regardless.
+Each mirror lives at `https://md.rxproperty.com.au/<path>` once deployed.
 
-### One-time Setup Steps
+## How to add or update content
 
-1. Push this repo to GitHub (public)
-2. In Vercel, create a new project, connect to the GitHub repo
-3. Build settings: framework `Other`, build command empty, output directory `.`
-4. Deploy
-5. In Vercel project settings, add custom domain `md.rxproperty.com.au`
-6. In your DNS, add a CNAME record: `md` → `cname.vercel-dns.com.`
-7. Wait for SSL provisioning (usually under 5 minutes)
-8. Test by visiting `https://md.rxproperty.com.au/llms.txt`
+1. Create or edit the relevant `.md` file at the repo root (or under `insights/` for articles).
+2. Update `llms.txt` to add or relabel the entry under the appropriate H2.
+3. Commit and push to `main`.
+4. The GitHub Action regenerates `llms-full.txt` automatically. Vercel redeploys both within a minute.
 
----
+Brand rules: Rx casing, no em or en dashes, DD/MM/YYYY dates, Australian English, straight ASCII quotes.
 
-## Maintaining the Content
+## How `llms-full.txt` regenerates
 
-The expected workflow is **scrape-and-update**: when a page changes on rxproperty.com.au, the corresponding Markdown file in this repo is regenerated from the live HTML.
+The Action at `.github/workflows/regenerate-llms-full.yml` runs on every push to `main` that touches a source `.md` file or the generator script. It runs `generate-llms-full.sh`, which concatenates the canonical mirrors in the order specified in the script's `SOURCES` array, then commits the result back with the message `Auto-regenerate llms-full.txt [skip ci]`.
 
-### Workflow A: Manual via Claude conversation
+To run the generator locally, from the repo root:
 
-1. Make your edits in HubSpot, publish the live page
-2. In Claude, ask: "Update `<filename>.md` from `https://rxproperty.com.au/<page>`"
-3. Claude fetches the live page, generates a clean Markdown twin, hands you the file
-4. Commit the change to this repo, push to `main`
-5. Vercel auto-deploys within 60 seconds
+    chmod +x ./generate-llms-full.sh
+    ./generate-llms-full.sh
 
-This is the right workflow for the current edit frequency (a few changes per month).
+The script is idempotent; running it twice on the same sources produces the same output.
 
-### Workflow B: Scheduled via GitHub Actions
+## How to verify changes are live
 
-If edit frequency increases, add a scheduled GitHub Action that:
+After pushing, wait roughly 60 seconds, then:
 
-1. Reads a `pages.json` config of URL → file mappings
-2. Fetches each URL, converts the HTML to Markdown (via Pandoc, `turndown`, or a Claude API call for intelligent conversion that preserves structure and intent)
-3. Diffs against the existing file in the repo
-4. Opens a PR or commits direct to `main`
-5. Vercel auto-deploys
+    curl https://md.rxproperty.com.au/llms.txt
+    curl https://md.rxproperty.com.au/llms-full.txt
+    curl https://md.rxproperty.com.au/<file>.md
 
-This is not set up yet. Implement it when manual updates start feeling onerous.
+If the content doesn't reflect your push, check the Vercel project dashboard for deployment status.
 
----
+## Pending companion tasks in HubSpot
 
-## File Population Status
+These live outside this repo and aren't required for the mirrors to work, but they complete the AI discoverability picture:
 
-At time of initial repo creation, the following files were generated from content available in this conversation:
+- 301 redirect: `rxproperty.com.au/llms.txt` to `md.rxproperty.com.au/llms.txt`
+- 301 redirect: `rxproperty.com.au/llms-full.txt` to `md.rxproperty.com.au/llms-full.txt`
+- Both redirects live in HubSpot URL Redirects (Settings > Tools in HubSpot CMS).
 
-- [x] `llms.txt`
-- [x] `index.md`
-- [x] `become-a-partner.md`
-- [x] `listings.md` (overview content, generic)
-- [ ] `privacy-policy.md` (stub, needs live content)
-- [ ] `disclaimer.md` (stub, needs live content)
-- [ ] `insights/why-what-is-the-rent...md` (stub, needs article body)
-- [ ] `insights/why-you-need-to-consider-agendas...md` (stub, needs article body)
-- [ ] `insights/why-a-cold-shell...md` (stub, needs article body)
+## Known issues
 
-Run the scrape-and-update workflow against the live pages to populate the stubs.
+- `privacy-policy.md` is an intentional stub. The canonical Privacy Policy is published at rxproperty.com.au/privacy-policy and is not mirrored here because it contains a detailed vendor list. The canonical page carries `noindex, noai` directives and a copyright clause restricting AI training use.
 
----
+- `insights/why-a-cold-shell-...md` is a placeholder. The canonical HubSpot page has duplicate body content (the rent article body). It will be populated once the canonical content is corrected.
 
-## AI Usage Terms
+## Source repository
 
-See [`llms.txt`](./llms.txt) for the AI usage terms governing use of this content. In summary:
-
-1. Attribution required
-2. No competitive training use
-3. No verbatim listing reproduction
-4. No case study reproduction beyond summary
-5. No misleading representation
-6. No personal information collection on Rx Property's behalf
-
-Contact enquiries@rxproperty.com.au for any use case not covered.
-
----
-
-## Contact
-
-**Bryce Stickland**  
-Principal, Rx Property Australia  
-enquiries@rxproperty.com.au  
-1300 272 199
+- GitHub: https://github.com/SRPL-RXP/rxp-llms
+- Deployment: Vercel project `rxp-llms`, mapped to md.rxproperty.com.au
+- Maintainer: Bryce Stickland, bryce@rxproperty.com.au
