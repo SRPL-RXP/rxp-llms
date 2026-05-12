@@ -42,7 +42,6 @@ Occupier engagement begins with a property brief, which enables Rx Property to m
 
 ## Optional
 
-- [Privacy Policy (Markdown mirror)](https://md.rxproperty.com.au/privacy-policy.md): Markdown mirror summarising the live Privacy Policy v2.0
 - [Disclaimer (Markdown mirror)](https://md.rxproperty.com.au/disclaimer.md): Markdown mirror of the site disclaimer covering general advice
 - [Privacy Policy (canonical)](https://rxproperty.com.au/privacy-policy)
 - [Disclaimer (canonical)](https://rxproperty.com.au/disclaimer)
