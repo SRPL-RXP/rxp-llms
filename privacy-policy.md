@@ -25,7 +25,7 @@ To populate this file, run the scrape-and-update workflow against the live page.
 
 Bryce Stickland  
 RX Property Australia  
-enquiries@rxproperty.com.au  
+support@rxproperty.com.au  
 1300 272 199  
 Suite 1, 422 Oxford Street, Bondi Junction NSW 2022
 
