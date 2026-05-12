@@ -36,6 +36,11 @@ Occupier engagement begins with a property brief, which enables Rx Property to m
 - [Why You Need to Consider Agendas When You Are Not Paying an Advisor to Search for Your Property](https://md.rxproperty.com.au/insights/why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property.md): Tenant Advisory from March 2026 on advisor incentive alignment in property searches
 - [Why a Cold Shell May Not Be Leasable in the Current Market, and When to Consider a Spec Suite](https://md.rxproperty.com.au/insights/why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite.md): Owner Insight from February 2026 on spec suite versus cold shell leasability
 
+## Frequently asked questions
+
+- [FAQ (canonical)](https://rxproperty.com.au/faq): Comprehensive Q&A covering services, fees, compliance, AML/CTF, partners, and engagement
+- [FAQ (Markdown mirror)](https://md.rxproperty.com.au/faq.md): Same content for AI consumption
+
 ## Source repository
 
 - [GitHub: SRPL-RXP/rxp-llms](https://github.com/SRPL-RXP/rxp-llms): source repository for the Markdown mirrors and the llms.txt file
