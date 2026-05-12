@@ -1,6 +1,6 @@
 # Disclaimer
 
-**RX Property Australia | Stickland Realty Pty Ltd**
+**Rx Property Australia | Stickland Realty Pty Ltd**
 
 This is a placeholder file. The full Disclaimer text should be populated from the canonical live page at [https://rxproperty.com.au/disclaimer](https://rxproperty.com.au/disclaimer) via the scrape-and-update workflow described in [README.md](./README.md).
 
@@ -21,7 +21,7 @@ To populate this file, run the scrape-and-update workflow against the live page.
 **Contact**
 
 Bryce Stickland  
-Principal, RX Property Australia  
+Principal, Rx Property Australia  
 support@rxproperty.com.au  
 1300 272 199  
 Suite 1, 422 Oxford Street, Bondi Junction NSW 2022

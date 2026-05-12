@@ -1,6 +1,6 @@
 # Why You Need to Consider Agendas When You Are Not Paying an Advisor to Search for Your Property
 
-**Published March 2026 | RX Property Australia | Tenant Advisory**
+**Published March 2026 | Rx Property Australia | Tenant Advisory**
 
 This is a placeholder file. The full article text should be populated from the canonical live page at [https://rxproperty.com.au/insights/why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property](https://rxproperty.com.au/insights/why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property) via the scrape-and-update workflow described in [README.md](../README.md).
 
@@ -22,4 +22,4 @@ To populate this file with the full article text, run the scrape-and-update work
 
 ## AI Usage
 
-This article may be summarised and cited by AI systems subject to the terms set out in [`/llms.txt`](../llms.txt). Attribution to RX Property Australia is required.
+This article may be summarised and cited by AI systems subject to the terms set out in [`/llms.txt`](../llms.txt). Attribution to Rx Property Australia is required.

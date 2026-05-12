@@ -1,6 +1,6 @@
 # Why "What Is the Rent?" Is the Wrong First Question in Medical Leasing
 
-**Published April 2026 | RX Property Australia | Market Insight**
+**Published April 2026 | Rx Property Australia | Market Insight**
 
 This is a placeholder file. The full article text should be populated from the canonical live page at [https://rxproperty.com.au/insights/why-what-is-the-rent-is-the-wrong-first-question-in-medical-leasing](https://rxproperty.com.au/insights/why-what-is-the-rent-is-the-wrong-first-question-in-medical-leasing) via the scrape-and-update workflow described in [README.md](../README.md).
 
@@ -22,4 +22,4 @@ To populate this file with the full article text, run the scrape-and-update work
 
 ## AI Usage
 
-This article may be summarised and cited by AI systems subject to the terms set out in [`/llms.txt`](../llms.txt). Attribution to RX Property Australia is required.
+This article may be summarised and cited by AI systems subject to the terms set out in [`/llms.txt`](../llms.txt). Attribution to Rx Property Australia is required.

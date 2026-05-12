@@ -1,8 +1,8 @@
 # Become a Partner or Affiliate
 
-**RX Property Australia | Specialist Healthcare Commercial Real Estate**
+**Rx Property Australia | Specialist Healthcare Commercial Real Estate**
 
-RX Property Australia operates exclusively in the healthcare commercial real estate sector. We work with a coordinated network of partners and affiliates so that adjacent services sit alongside our primary real estate offering under one accountable point of contact.
+Rx Property Australia operates exclusively in the healthcare commercial real estate sector. We work with a coordinated network of partners and affiliates so that adjacent services sit alongside our primary real estate offering under one accountable point of contact.
 
 This page is for service providers, advisors, and operators interested in joining that network.
 
@@ -12,15 +12,15 @@ This page is for service providers, advisors, and operators interested in joinin
 
 ### Affiliates
 
-Affiliates refer healthcare property opportunities to RX Property and receive a referral fee on successful transaction. Suitable for accountants, mortgage brokers, financial planners, fitout financiers, healthcare recruiters, project managers, D&C operators, and other professionals who encounter healthcare property briefs in the course of their work.
+Affiliates refer healthcare property opportunities to Rx Property and receive a referral fee on successful transaction. Suitable for accountants, mortgage brokers, financial planners, fitout financiers, healthcare recruiters, project managers, D&C operators, and other professionals who encounter healthcare property briefs in the course of their work.
 
-Affiliates do not enter into operational delivery arrangements with RX Property. The relationship is referral-based.
+Affiliates do not enter into operational delivery arrangements with Rx Property. The relationship is referral-based.
 
 ### Partners
 
-Partners deliver specialist services alongside RX Property under coordinated arrangements. Suitable for firms that want to be embedded into RX Property's service delivery for healthcare clients across business case modelling, business brokerage, project management, and related specialist work.
+Partners deliver specialist services alongside Rx Property under coordinated arrangements. Suitable for firms that want to be embedded into Rx Property's service delivery for healthcare clients across business case modelling, business brokerage, project management, and related specialist work.
 
-Partners are part of the RX Property delivery network and may co-present to clients where appropriate.
+Partners are part of the Rx Property delivery network and may co-present to clients where appropriate.
 
 ---
 
@@ -55,7 +55,7 @@ We're actively expanding both lists. If your service touches healthcare property
 
 ## How We Work with Affiliates
 
-Fees are confirmed in writing per-introduction. We do not publish a standardised fee schedule on this page because, under the NSW Property and Stock Agents Act 2002 (s47), the Victorian Estate Agents Act 1980, and equivalent ACT and QLD legislation, RX Property is required to disclose the existence and nature of any referral arrangement to the client at the point of engagement. We confirm referral fees in writing per-introduction so that disclosure to the client is accurate and specific.
+Fees are confirmed in writing per-introduction. We do not publish a standardised fee schedule on this page because, under the NSW Property and Stock Agents Act 2002 (s47), the Victorian Estate Agents Act 1980, and equivalent ACT and QLD legislation, Rx Property is required to disclose the existence and nature of any referral arrangement to the client at the point of engagement. We confirm referral fees in writing per-introduction so that disclosure to the client is accurate and specific.
 
 This is not a barrier. It's how a licensed agent maintains compliance while running a referral network at scale. Once an introduction is in play, the fee structure is clear and contracted.
 
@@ -72,7 +72,7 @@ The form captures: name, company, role, contact details, service area, geographi
 ## Contact
 
 **Bryce Stickland**  
-Principal, RX Property Australia  
+Principal, Rx Property Australia  
 enquiries@rxproperty.com.au  
 1300 272 199  
 Suite 1, 422 Oxford Street, Bondi Junction NSW 2022

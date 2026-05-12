@@ -1,6 +1,6 @@
-# RX Property Australia — Machine-Readable Content
+# Rx Property Australia: Machine-Readable Content
 
-This repository hosts the machine-readable Markdown and `llms.txt` artefacts for [rxproperty.com.au](https://rxproperty.com.au), enabling AI systems, large language models, and other automated agents to read RX Property's content cleanly without scraping the HTML site.
+This repository hosts the machine-readable Markdown and `llms.txt` artefacts for [rxproperty.com.au](https://rxproperty.com.au), enabling AI systems, large language models, and other automated agents to read Rx Property's content cleanly without scraping the HTML site.
 
 Served via Vercel at `md.rxproperty.com.au` and referenced from the canonical [`llms.txt`](https://rxproperty.com.au/llms.txt) at the root domain.
 
@@ -8,7 +8,7 @@ Served via Vercel at `md.rxproperty.com.au` and referenced from the canonical [`
 
 ## Why This Repo Exists
 
-AI-driven discovery is a meaningful inbound channel for RX Property. AI crawlers and conversational search products (Claude, ChatGPT, Perplexity, and similar) parse Markdown more reliably than HTML and increasingly prefer it where both are available. This repo serves clean Markdown twins of the most important pages on rxproperty.com.au, signposted from the canonical `llms.txt`.
+AI-driven discovery is a meaningful inbound channel for Rx Property. AI crawlers and conversational search products (Claude, ChatGPT, Perplexity, and similar) parse Markdown more reliably than HTML and increasingly prefer it where both are available. This repo serves clean Markdown twins of the most important pages on rxproperty.com.au, signposted from the canonical `llms.txt`.
 
 The repository is **public by design**. Content here mirrors what's already on the live site, so there's no privacy cost, and a public repo gives AI systems an additional discovery surface beyond the website itself.
 
@@ -117,7 +117,7 @@ See [`llms.txt`](./llms.txt) for the AI usage terms governing use of this conten
 3. No verbatim listing reproduction
 4. No case study reproduction beyond summary
 5. No misleading representation
-6. No personal information collection on RX Property's behalf
+6. No personal information collection on Rx Property's behalf
 
 Contact enquiries@rxproperty.com.au for any use case not covered.
 
@@ -126,6 +126,6 @@ Contact enquiries@rxproperty.com.au for any use case not covered.
 ## Contact
 
 **Bryce Stickland**  
-Principal, RX Property Australia  
+Principal, Rx Property Australia  
 enquiries@rxproperty.com.au  
 1300 272 199
