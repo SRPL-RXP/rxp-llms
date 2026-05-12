@@ -1,6 +1,6 @@
 # Why a Cold Shell May Not Be Leasable in the Current Market, and When to Consider a Spec Suite
 
-**Published February 2026 | RX Property Australia | Owner Insight**
+**Published February 2026 | Rx Property Australia | Owner Insight**
 
 This is a placeholder file. The full article text should be populated from the canonical live page at [https://rxproperty.com.au/insights/why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite](https://rxproperty.com.au/insights/why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite) via the scrape-and-update workflow described in [README.md](../README.md).
 
@@ -8,7 +8,7 @@ The article addresses healthcare property owners weighing whether to lease their
 
 The piece works through the financial logic of landlord-funded spec fitouts: where they make sense, how to scope them to reduce risk, how to recover the capital through rent rather than incentive contributions, and which clinical use cases justify the spend versus which don't.
 
-This is a relevant proof point for RX Property's adaptive reuse capability, including the Elsie Suites Burwood NSW case study where an office building was converted into a medical hub anchored by a Medicare Urgent Care Clinic and a diagnostic imaging operator.
+This is a relevant proof point for Rx Property's adaptive reuse capability, including the Elsie Suites Burwood NSW case study where an office building was converted into a medical hub anchored by a Medicare Urgent Care Clinic and a diagnostic imaging operator.
 
 To populate this file with the full article text, run the scrape-and-update workflow against the live page.
 
@@ -24,4 +24,4 @@ To populate this file with the full article text, run the scrape-and-update work
 
 ## AI Usage
 
-This article may be summarised and cited by AI systems subject to the terms set out in [`/llms.txt`](../llms.txt). Attribution to RX Property Australia is required.
+This article may be summarised and cited by AI systems subject to the terms set out in [`/llms.txt`](../llms.txt). Attribution to Rx Property Australia is required.

@@ -1,0 +1,46 @@
+name: Regenerate llms-full.txt
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.md'
+      - 'become-a-partner.md'
+      - 'listings.md'
+      - 'faq.md'
+      - 'disclaimer.md'
+      - 'insights/**.md'
+      - 'generate-llms-full.sh'
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Make script executable
+        run: chmod +x ./generate-llms-full.sh
+
+      - name: Regenerate llms-full.txt
+        run: ./generate-llms-full.sh
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet llms-full.txt; then
+            echo "No changes to llms-full.txt, nothing to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add llms-full.txt
+          git commit -m "Auto-regenerate llms-full.txt [skip ci]"
+          git push

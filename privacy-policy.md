@@ -1,32 +1,19 @@
 # Privacy Policy
 
-**RX Property Australia | Stickland Realty Pty Ltd**
+**Rx Property Australia, a trading name of Stickland Realty Pty Ltd.**
 
-This is a placeholder file. The full Privacy Policy text should be populated from the canonical live page at [https://rxproperty.com.au/privacy-policy](https://rxproperty.com.au/privacy-policy) via the scrape-and-update workflow described in [README.md](./README.md).
+This Markdown mirror is intentionally not populated.
 
-The live Privacy Policy is RX Property Australia Privacy Policy v2.0 and covers:
+The canonical Privacy Policy is published at [rxproperty.com.au/privacy-policy](https://rxproperty.com.au/privacy-policy) and remains accessible to all human readers in compliance with Australian Privacy Principle (APP) 1.4.
 
-- Personal information collected through the website, including names, contact details, property briefs, and other voluntarily submitted information
-- Lawful basis for collection under the Australian Privacy Principles (APPs)
-- Disclosure of personal information to third parties, including overseas disclosures to HubSpot
-- Australian-hosted vendors (VaultRE, ActivePipe, Supabase in ap-southeast-2 region)
-- Direct marketing and consent mechanisms
-- APP 1.7 automated decision-making disclosure (effective 10 December 2026)
-- AUSTRAC enrolment status (targeted March 2026)
-- Data Breach Response Plan and notifiable data breaches scheme
-- Personal Information Request process
-- Privacy Officer contact details (Bryce Stickland)
+Rx Property Australia has elected not to mirror the Privacy Policy in this AI-readable repository, and the canonical page is protected by `noindex` and AI crawler `noindex` directives at the meta tag and `robots.txt` levels.
 
-To populate this file, run the scrape-and-update workflow against the live page.
+Use of the canonical Privacy Policy or any portion of it for training, fine-tuning, grounding, or retrieval augmentation of any artificial intelligence or machine learning model is expressly prohibited without prior written consent from Rx Property Australia.
 
----
+For privacy enquiries, contact the Privacy Officer at [support@rxproperty.com.au](mailto:support@rxproperty.com.au) or 1300 272 199.
 
-**Privacy Officer**
+## See also
 
-Bryce Stickland  
-RX Property Australia  
-support@rxproperty.com.au  
-1300 272 199  
-Suite 1, 422 Oxford Street, Bondi Junction NSW 2022
-
-ABN 96 652 946 953
+- [Index](https://md.rxproperty.com.au/index.md)
+- [Disclaimer](https://md.rxproperty.com.au/disclaimer.md)
+- [llms.txt](https://md.rxproperty.com.au/llms.txt)
