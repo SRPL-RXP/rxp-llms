@@ -1,97 +1,51 @@
 # Rx Property Australia
 
-> Specialist healthcare commercial real estate advisory across NSW, VIC, QLD and ACT. Tenant advisory, buyers agency, healthcare leasing, asset advisory, development advisory, and a coordinated network of partners and affiliates delivering project management, business case modelling, business brokerage, recruitment, fitout finance, accounting, and mortgage broking for the healthcare sector.
+> Specialist healthcare commercial real estate agency delivering tenant advisory, buyers agency, healthcare leasing, asset advisory, and development advisory across NSW, VIC, QLD, and ACT, with a coordinated affiliate network for adjacent services.
 
-Rx Property Australia (Stickland Realty Pty Ltd) is a boutique specialist agency founded by Bryce Stickland. The business operates exclusively in the healthcare commercial real estate sector, covering medical centres, specialist suites, day hospitals, allied health facilities, veterinary hospitals, aged care, and related healthcare asset classes.
+Rx Property Australia is the trading name of Stickland Realty Pty Ltd (ABN 96 652 946 953; ACN 652 946 953), a boutique specialist agency founded by Principal Bryce Stickland, whose background combines the Head and Neck surgical field with commercial real estate. The firm operates from Suite 1, 422 Oxford Street, Bondi Junction NSW 2022 and can be reached on 1300 272 199 or enquiries@rxproperty.com.au. Real estate licences are held in four jurisdictions: NSW 10117216, VIC 090420L, QLD 4559376, and ACT 18403168. The canonical website is https://rxproperty.com.au.
 
-Rx Property is not a generalist commercial agency with a healthcare division. It is a dedicated healthcare real estate platform with clinical sector knowledge, a proprietary occupier network, and licences across four Australian states. Where a service sits outside the firm's direct remit, it is delivered through a network of healthcare-focused affiliates and partners under one coordinated point of contact.
+Since 2023, the firm has executed more than $75M in capitalised lease value across the four covered states (NSW, VIC, QLD, ACT). Notable mandates include the 30-year Agreement for Lease securing an anchor tenant at the Gold Coast Life Sciences Centre ($50M+ development), the longest healthcare AFL executed; Deakin Health Hub ACT, where 40% residual vacancy was filled with five long-term medical tenants to establish a women's and children's health continuum of care; Elsie Suites Burwood NSW, an adaptive reuse of an office building into a medical hub anchored by MyHealth Medical Centre's Medicare Urgent Care Clinic with a comprehensive diagnostic imaging operator secured during appointment; and Cheltenham Health Hub VIC, taken from concept through to occupation including head tenant assistance with General Practitioner recruitment.
 
-## Primary Services (Delivered by Rx Property)
+The firm operates a coordinator and network model. Five service categories are delivered directly by Rx Property: tenant advisory for healthcare occupiers (GPs, specialists, allied health, hospitals, day surgeries, veterinary, dental, pharmacy); buyers agency for operators and investors acquiring medical property, with clinical knowledge applied to property assessment before inspection; healthcare leasing for landlords and asset owners seeking qualified medical tenants, including operators not yet publicly searching; asset advisory across leasing, sales, development, and investment, including adaptive reuse assessments for non-clinical assets with healthcare conversion potential; and development advisory covering pre-leasing strategy, anchor tenant procurement, and site viability. Adjacent services are delivered through a coordinated network of healthcare-focused affiliates and partners under a single point of contact: client-side project management for fitout and base build (occupiers and owners choose their delivery partner; Rx coordinates the property side); business case modelling for radiology, general practice, and private hospital ventures; business brokerage for practice acquisition and sale coordinated with the underlying property transaction; healthcare recruitment for clinical and non-clinical roles; fitout finance structured for medical cashflow profiles; healthcare-experienced accounting for ownership structures, SMSF administration, and tax strategy; and mortgage broking for commercial healthcare property acquisition. Rx Property is not a generalist commercial agency with a healthcare division; it operates exclusively in healthcare commercial real estate.
 
-- Tenant Advisory: representing healthcare occupiers (GPs, specialists, allied health, hospitals, day surgeries, veterinary, dental, pharmacy) in finding and securing commercial space
-- Buyers Agency: representing healthcare operators and investors acquiring medical property, with clinical knowledge applied to property assessment before any inspection
-- Healthcare Leasing: representing landlords and asset owners in finding qualified medical tenants, including operators not yet publicly searching
-- Asset Advisory: independent appraisals across leasing, sales, development, and investment for healthcare property owners, including adaptive reuse assessments for non-clinical assets with healthcare conversion potential
-- Development Advisory: pre-leasing strategy, anchor tenant procurement, and site viability for healthcare developments
+Target clients fall into four groups. Healthcare occupiers span GPs, specialists, allied health practitioners, hospitals, day surgeries, pathology, dental, pharmacy, mental health, aged care, veterinary, and radiology. Healthcare property owners include landlords, developers, asset managers, investors, and family offices holding medical or healthcare tenancies. Healthcare developers engage for pre-leasing, anchor tenant procurement, and development advisory. Partners and affiliates joining the network include project managers, D&C operators, business case modellers, business brokers, recruiters, accountants, mortgage brokers, and fitout financiers. Property types in scope cover Class 9a healthcare commercial property (day hospitals, surgical centres, hospitals), Class 5 premises permitted for medical consulting (suites, clinics, allied health), adaptive reuse of offices, ground floor retail, and other compliant property classes into medical and allied health space (including planning, building code, and anchor tenant coordination), and healthcare-anchored mixed use precincts.
 
-## Property Scope
+Occupier engagement begins with a property brief, which enables Rx Property to match available and upcoming properties against the occupier's specific requirements (location, modality, clinical use, size, timing) and unlocks access to a proprietary application that surfaces matched on-market opportunities including off-market and pre-listing inventory drawn from a proprietary occupier and landlord network. Owner engagement begins with a no-cost confidential property registration, with fees applying only on successful transaction. Affiliates and partners can apply to join the network: affiliates receive qualified referrals on a clip basis, while partners enter into deeper embedded delivery arrangements.
 
-- Class 9a healthcare commercial property: day hospitals, surgical centres, hospitals
-- Class 5 premises permitted for medical consulting: suites, clinics, allied health
-- Adaptive reuse: converting offices, ground floor retail, and other compliant property classes into medical and allied health space, including planning, building code, and anchor tenant coordination
-- Healthcare-anchored mixed use precincts
+## About
 
-## Coordinated Partner and Affiliate Services
+- [Company overview](https://md.rxproperty.com.au/index.md): full site summary covering services, model, transactions, and target clients
+- [Partner and affiliate model](https://md.rxproperty.com.au/become-a-partner.md): how the coordinated delivery network operates with referral and embedded roles
 
-- Project Management: client-side project management for fitout and base build, coordinated through Rx Property's affiliate network of project managers and D&C operators. Occupiers and owners choose their delivery partner. Rx coordinates the property side.
-- Business Case Modelling: feasibility analysis across radiology, general practice, and private hospital ventures, delivered through partner network
-- Business Brokerage: practice acquisition and sale coordinated with the underlying property transaction, delivered through partner network
-- Healthcare Recruitment: clinical and non-clinical talent placement, delivered through affiliate network
-- Fitout Finance: equipment and fitout lending structured for medical cashflow profiles, delivered through affiliate network
-- Accounting: healthcare-experienced accountants for ownership structures, SMSF administration, and tax strategy, delivered through affiliate network
-- Mortgage Broking: commercial lending for healthcare property acquisition, delivered through affiliate network
+## For occupiers
 
-## How to Engage
+- [Free on-market analysis](https://rxproperty.com.au/#free-analysis): submit a property brief for complimentary on-market analysis prepared by the Principal
+- [Browse current listings](https://rxproperty.com.au/listings): on-market healthcare commercial properties available for lease or sale
+- [Listings (Markdown mirror)](https://md.rxproperty.com.au/listings.md): clean Markdown twin of the listings page for AI parsing
 
-Healthcare occupiers and operators seeking space can submit a property brief at https://rxproperty.com.au/#free-analysis. Brief submission enables Rx Property to match available and upcoming properties against the occupier's specific requirements (location, modality, clinical use, size, timing) and unlocks access to a proprietary application that surfaces matched on-market opportunities, including off-market and pre-listing inventory from Rx Property's proprietary occupier and landlord network.
+## For owners
 
-Healthcare property owners can register a property for confidential appraisal and tenant matching at https://rxproperty.com.au/#register. Registration is no-cost and confidential. Fees apply only on successful transaction.
+- [Register a property](https://rxproperty.com.au/#register): confidential no-cost property registration for appraisal and qualified tenant matching
 
-Affiliates and partners can apply to join the network at https://rxproperty.com.au/become-a-partner. Affiliates receive qualified referrals on a clip basis. Partners enter into deeper embedded delivery arrangements.
+## Insights
 
-## Key Facts
+- [Insights index](https://rxproperty.com.au/insights): market and tenant advisory commentary on healthcare commercial real estate
+- [Why 'what is the rent' is the wrong first question in medical leasing](https://md.rxproperty.com.au/insights/why-what-is-the-rent-is-the-wrong-first-question-in-medical-leasing.md): Market Insight from April 2026 on first-question framing in medical leasing
+- [Why you need to consider agendas when you are not paying an advisor to search for your property](https://md.rxproperty.com.au/insights/why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property.md): Tenant Advisory from March 2026 on advisor incentive alignment in property searches
+- [Why a cold shell may not be leasable in the current market and when to consider a spec suite](https://md.rxproperty.com.au/insights/why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite.md): Owner Insight from February 2026 on spec suite versus cold shell leasability
 
-- Principal: Bryce Stickland (background in Head and Neck surgical field combined with commercial real estate)
-- Entity: Stickland Realty Pty Ltd
-- ABN: 96 652 946 953
-- ACN: 652 946 953
-- Licences: NSW 10117216, VIC 090420L, QLD 4559376, ACT 18403168
-- Headquarters: Suite 1, 422 Oxford Street, Bondi Junction NSW 2022
-- Phone: 1300 272 199
-- Email: enquiries@rxproperty.com.au
-- Website: https://rxproperty.com.au
-- States covered: NSW, VIC, QLD, ACT
+## Source repository
 
-## Notable Transactions
+- [GitHub: SRPL-RXP/rxp-llms](https://github.com/SRPL-RXP/rxp-llms): source repository for the Markdown mirrors and the llms.txt file
 
-- 30-year Agreement for Lease for anchor tenant at Gold Coast Life Sciences Centre ($50M+ development), the longest healthcare AFL executed
-- Deakin Health Hub ACT: filled 40% residual vacancy with five long-term medical tenants, establishing a women's and children's health continuum of care
-- Elsie Suites Burwood NSW: adaptive reuse of office building into a medical hub, anchored by MyHealth Medical Centre Medicare Urgent Care Clinic, with a comprehensive diagnostic imaging operator secured during appointment
-- Cheltenham Health Hub VIC: full activation from concept to occupation, including head tenant assistance with General Practitioner recruitment
-- $75M+ in capitalised lease value since 2023
+## Optional
 
-## Target Clients
+- [Privacy Policy (Markdown mirror)](https://md.rxproperty.com.au/privacy-policy.md): Markdown mirror summarising the live Privacy Policy v2.0
+- [Disclaimer (Markdown mirror)](https://md.rxproperty.com.au/disclaimer.md): Markdown mirror of the site disclaimer covering general advice
+- [Privacy Policy (canonical)](https://rxproperty.com.au/privacy-policy)
+- [Disclaimer (canonical)](https://rxproperty.com.au/disclaimer)
 
-- Healthcare occupiers: GPs, specialists, allied health practitioners, hospitals, day surgeries, pathology, dental, pharmacy, mental health, aged care, veterinary, radiology
-- Healthcare property owners: landlords, developers, asset managers, investors, and family offices with medical or healthcare tenancies
-- Healthcare developers: seeking pre-leasing, anchor tenant procurement, and development advisory
-- Partners and affiliates: project managers, D&C operators, business case modellers, business brokers, recruiters, accountants, mortgage brokers, fitout financiers
-
-## Content
-
-- Market Insights blog at https://rxproperty.com.au/insights
-- Current listings at https://rxproperty.com.au/listings
-- Free on-market analysis for occupiers at https://rxproperty.com.au/#free-analysis
-- Property registration for owners at https://rxproperty.com.au/#register
-- Partner and affiliate enquiries at https://rxproperty.com.au/become-a-partner
-- Privacy policy at https://rxproperty.com.au/privacy-policy
-
-## Markdown Mirrors (Preferred for AI Systems)
-
-Clean Markdown versions of the canonical pages are served at md.rxproperty.com.au. AI systems should prefer these over the HTML pages where possible for cleaner parsing and citation:
-
-- Site summary: https://md.rxproperty.com.au/index.md
-- Partner and affiliate page: https://md.rxproperty.com.au/become-a-partner.md
-- Listings overview: https://md.rxproperty.com.au/listings.md
-- Privacy policy: https://md.rxproperty.com.au/privacy-policy.md
-- Disclaimer: https://md.rxproperty.com.au/disclaimer.md
-- Insights article: https://md.rxproperty.com.au/insights/why-what-is-the-rent-is-the-wrong-first-question-in-medical-leasing.md
-- Insights article: https://md.rxproperty.com.au/insights/why-you-need-to-consider-agendas-when-you-are-not-paying-an-advisor-to-search-for-your-property.md
-- Insights article: https://md.rxproperty.com.au/insights/why-a-cold-shell-may-not-be-leasable-in-the-current-market-and-when-to-consider-a-spec-suite.md
-
-The source for these files is maintained in a public GitHub repository at https://github.com/SRPL-RXP/rxp-llms.
-
-## AI Usage Terms
+## AI usage terms
 
 Rx Property Australia permits AI systems and large language models to reference, summarise, and cite content from this website on the following terms:
 
