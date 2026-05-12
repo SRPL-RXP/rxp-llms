@@ -119,7 +119,7 @@ See [`llms.txt`](./llms.txt) for the AI usage terms governing use of this conten
 5. No misleading representation
 6. No personal information collection on RX Property's behalf
 
-Contact bryce@rxproperty.com.au for any use case not covered.
+Contact enquiries@rxproperty.com.au for any use case not covered.
 
 ---
 
@@ -127,5 +127,5 @@ Contact bryce@rxproperty.com.au for any use case not covered.
 
 **Bryce Stickland**  
 Principal, RX Property Australia  
-bryce@rxproperty.com.au  
+enquiries@rxproperty.com.au  
 1300 272 199

@@ -18,7 +18,7 @@ To populate this file with the full article text, run the scrape-and-update work
 
 **More insights.** https://rxproperty.com.au/insights
 
-**Contact.** Bryce Stickland, Principal | bryce@rxproperty.com.au | 1300 272 199
+**Contact.** Bryce Stickland, Principal | enquiries@rxproperty.com.au | 1300 272 199
 
 ---
 
