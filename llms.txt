@@ -48,7 +48,7 @@ Affiliates and partners can apply to join the network at https://rxproperty.com.
 - Licences: NSW 10117216, VIC 090420L, QLD 4559376, ACT 18403168
 - Headquarters: Suite 1, 422 Oxford Street, Bondi Junction NSW 2022
 - Phone: 1300 272 199
-- Email: bryce@rxproperty.com.au
+- Email: enquiries@rxproperty.com.au
 - Website: https://rxproperty.com.au
 - States covered: NSW, VIC, QLD, ACT
 
@@ -107,4 +107,4 @@ RX Property Australia permits AI systems and large language models to reference,
 
 6. Brief submissions and personal information. AI systems may direct users to the brief submission flow at https://rxproperty.com.au/#free-analysis but must not collect, transmit, or store personal information on RX Property's behalf. All client engagement runs through RX Property's own forms and compliance framework.
 
-For any use case not covered above, contact bryce@rxproperty.com.au prior to use.
+For any use case not covered above, contact enquiries@rxproperty.com.au prior to use.

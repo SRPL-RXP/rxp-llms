@@ -76,6 +76,6 @@ Professionally indemnified across all four states.
 
 **Bryce Stickland**  
 Principal, RX Property Australia  
-bryce@rxproperty.com.au  
+enquiries@rxproperty.com.au  
 1300 272 199  
 Suite 1, 422 Oxford Street, Bondi Junction NSW 2022
